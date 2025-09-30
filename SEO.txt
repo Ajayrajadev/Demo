@@ -1,0 +1,121 @@
+Google Story
+10:57
+How Search Engine Works?
+15:19
+Types of Search Engines
+05:44
+How Search Engine Understand the Webpages?
+17:46
+Sample HTML Code
+00:00
+
+Basic seo
+
+What is Keyword Research?
+08:42
+Google Trends
+08:48
+Ubersuggest
+12:16
+SEO Approach Method
+08:18
+
+onpage seo
+
+SEO Work Type
+06:32
+Domain Name
+05:28
+Hosting Selection
+05:14
+SSL Installation
+03:26
+Meta Title
+03:55
+Meta Description
+03:35
+URL Optimization
+04:52
+Implementing Meta Tags_01
+13:47
+Implementing Meta Tags_02
+07:26
+SEO Extension
+03:39
+H Tags Implementation
+07:12
+Content Optimization
+09:04
+Bold Letter
+00:00
+Content Optimization Tools
+06:53
+Search Console
+10:33
+Image Optimization
+09:08
+Site Map Implementation
+08:25
+Robots.txt
+10:18
+Status Code Optimization
+11:43
+Social Share
+01:55
+Mobile Optimization
+06:05
+Internal Linking
+05:44
+External Links
+04:06
+Google Algorithm
+12:15
+Canonicals
+06:46
+Schema Optimization
+22:13
+
+keyword research
+
+Google Search Operators
+05:37
+Keyword Research
+12:17
+Live Keyword Research
+25:21
+Free Keyword Research Tool
+07:19
+SEO Metrics
+14:18
+Google Analytics Setup
+15:10
+
+offpage seo
+
+Off Page SEO
+07:22
+Difference Types of Links
+05:26
+Backlink
+06:23
+Backlink Building Methods
+09:58
+Link Building Method_1
+06:21
+Link Building Method_2
+05:43
+Link Building Method_3
+05:18
+Link Building Method_4
+11:40
+Link Building Method_5
+14:16
+Technical Term Words
+12:47
+
+Bounce topics
+
+Website Audit
+16:52
+Overview
+14:25
